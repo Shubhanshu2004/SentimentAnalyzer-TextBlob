@@ -29,5 +29,5 @@ A simple Python project that analyzes the sentiment of user-input text using the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//Shubhanshu2004/EmojiSentimentAnalyzer.git
+   git clone https://github.com/Shubhanshu2004/EmojiSentimentAnalyzer.git
    cd EmojiSentimentAnalyzer
